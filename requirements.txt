@@ -1,0 +1,4 @@
+ipykernel
+requests
+feedparser
+nltk
